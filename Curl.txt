@@ -1,0 +1,36 @@
+
+curl --header "Content-Type: application/json" --request POST --data '{"auth":{"username":"iUiv4BOujFk8","password":"XVRhDGDs3DWG"},"zipcode":"07450"}' https://aquagenuity.com/GetWaterScore
+
+curl --header "Content-Type: application/json" --request POST --data '{"auth":{"username":"iUiv4BOujFk8","password":"XVRhDGDs3DWG"},"zipcode":"99759"}' https://aquagenuity.com/GetWaterScore
+
+
+curl --header "Content-Type: application/json" --request POST --data '{"auth":{"username":"iUiv4BOujFk8","password":"XVRhDGDs3DWG"},"zipcode":""}' https://aquagenuity.com/GetWaterScore
+
+
+for((i=07450;i<=07450;i++)); do curl --header "Content-Type: application/json" --request POST --data '{"auth":{"username":"iUiv4BOujFk8","password":"XVRhDGDs3DWG"},"zipcode":"$i"}' https://aquagenuity.com/GetWaterScore; done
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
