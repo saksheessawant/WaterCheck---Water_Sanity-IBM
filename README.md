@@ -1,4 +1,4 @@
-# WaterCheck---Water_Sanity-IBM
+# Water Sanity Predictor
 
 Video Link : https://drive.google.com/file/d/11-tp2nQMJXGNvFRtr_7zJw98ntg14fcE/view?usp=sharing
 
